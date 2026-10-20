@@ -1,0 +1,8 @@
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+
+# large audio file used by the music player; add it locally to public/music/
+public/music/
